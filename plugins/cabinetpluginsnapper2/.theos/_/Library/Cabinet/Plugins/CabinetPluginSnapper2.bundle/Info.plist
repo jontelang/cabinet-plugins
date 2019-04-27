@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>CabinetPluginSnapper2</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.jontelang.cabinetpluginsnapper2</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>MinimumOSVersion</key>
+	<string>3.0</string>
+	<key>NSPrincipalClass</key>
+	<string>CabinetPluginSnapper2</string>
+	<key>PreferencesTitle</key>
+	<string>Snapper 2</string>
+	<key>PreferencesDescription</key>
+	<string>Displays the snaps made from the Tweak Snapper 2. Required Snapper 2 being installed to work.</string>
+	<key>PreferencesAuthor</key>
+	<string>Jonathan Winger-Lang</string>
+	<key>PreferencesEmail</key>
+	<string>@jontelang</string>
+</dict>
+</plist>

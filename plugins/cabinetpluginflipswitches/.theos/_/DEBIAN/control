@@ -1,0 +1,10 @@
+Package: com.jontelang.cabinetpluginflipswitches
+Name: CabinetPluginFlipSwitches
+Depends: com.jontelang.cabinet
+Architecture: iphoneos-arm
+Description: An awesome Cabinet plugin!
+Maintainer: Jonathan Winger-lang
+Author: Jonathan Winger-lang
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 88

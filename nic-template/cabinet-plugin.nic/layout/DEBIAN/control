@@ -1,0 +1,9 @@
+Package: @@PACKAGENAME@@
+Name: @@FULLPROJECTNAME@@
+Depends: com.jontelang.cabinet
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Cabinet plugin!
+Maintainer: @@USER@@
+Author: @@USER@@
+Section: Tweaks

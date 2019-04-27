@@ -1,0 +1,9 @@
+Package: com.jontelang.cabinetpluginsnapper2
+Name: CabinetPluginSnapper2
+Depends: com.jontelang.cabinet
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Cabinet plugin!
+Maintainer: Jonathan Winger-lang
+Author: Jonathan Winger-lang
+Section: Tweaks
